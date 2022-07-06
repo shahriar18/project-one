@@ -1,0 +1,203 @@
+.one {
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    border-bottom-left-radius: 4%;
+    border-bottom-right-radius: 4%;
+
+}
+
+#color {
+    background-color: #ffd800;
+    margin: 0%;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+    background-color: #ffd800;
+    color: rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.Button {
+    padding-left: 42%;
+}
+
+.SecondHalfOne h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.hope {
+    padding-top: 8%;
+}
+
+.two-one {
+    padding-top: 50px;
+    padding-right: 70px;
+    padding-bottom: 50px;
+    padding-left: 33px;
+}
+
+body {
+    margin: 0%;
+}
+
+.two-one h2 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.Button {
+    padding-left: 43%;
+}
+
+
+.two-one h1 {
+    font-family: 'Roboto Flex', sans-serif;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+.hope h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 38px;
+}
+
+.hope h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.drem {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    display: flex;
+    padding-left: 13%;
+}
+
+.money {
+    background-color: lightgrey;
+    width: 70px;
+
+    padding: 45px;
+    margin: 25px;
+}
+
+#normal {
+    background-color: #efdd76;
+    border-color: lightgrey;
+    border-style: solid;
+}
+
+.input {
+    border: none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.text {
+    padding-left: 20%;
+    width: 400px;
+}
+
+.text p {
+    color: lightgray;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.tave {
+    width: 300px;
+    height: 270px;
+
+    padding: 15px;
+    margin: 5px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    background-color: lightyellow;
+}
+
+
+.supper {
+    display: flex;
+    padding-left: 12%;
+}
+
+#sane {
+    background-color: #ffd800;
+}
+
+.problem h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.Email {
+    width: 700px;
+    height: 145px;
+
+    padding: 15px;
+    margin-left: 23%;
+    background-color: lightgrey;
+    display: flex;
+}
+
+.passone {
+    display: flex;
+    width: 400px;
+    height: 100px;
+
+    padding: 15px;
+    margin-left: 15%;
+    background-color: lightgrey;
+}
+
+input {
+    background-color: lightyellow;
+    border: none;
+    margin: 5px;
+    height: 30px;
+    border-radius: 3%;
+}
+
+input[type=submit] {
+    background-color: lightcoral;
+}
+
+.alone {
+    display: flex;
+    padding-top: 7%;
+    padding-left: 29%;
+}
+
+.more {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(134, 134, 134);
+    margin-top: 100px;
+    border-top-left-radius: 5%;
+}
+
+.less {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 2%;
+}
